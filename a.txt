@@ -1,2 +1,16 @@
+
 这是一个新增的a文件，
 用于演示git stash push 操作。
+
+aaaa
+bbbb
+cccc
+
+增加dddd
+add eeeee ---ss
+
+
+添加一行
+add one line 2020-11-2
+
+
